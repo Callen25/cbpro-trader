@@ -1,7 +1,7 @@
 atomicwrites==1.2.1
 attrs==18.2.0
 bintrees==2.0.7
--e git+https://github.com/mcardillo55/coinbasepro-python.git@d2b8bed627339723ab214430fe93ade2331d757e#egg=cbpro
+-e git+https://github.com/Callen25/coinbasepro-python.git#egg=cbpro
 more-itertools==4.3.0
 numpy==1.15.2
 pluggy==0.8.0
